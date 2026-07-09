@@ -4,9 +4,9 @@ I am a **Mechatronics Engineer** specializing in **Automatic Control Systems** a
 
 ### 🛠️ Core Tech Stack & Engineering Skills
 - **Control & Simulation:** MATLAB, Simulink, Stateflow, Simscape
-- **Programming Languages:** Embedded C/C++ (Deployment/Code Gen concepts), Python (Automation & Data Analysis)
+- **Programming Languages:** Embedded C/C++ ,Python 
 - **Testing Methodology:** Model-in-the-Loop (MIL), Multi-Body Dynamics, System Identification
-- **Experience In:** Robotics, Smart Materials (SMA) , Advanced control Theory
+- **Experience In:** Robotics, Smart Materials (SMA) , Advanced control Theory , Optimization methods , Advanced Algorithm verification
 
 
 
