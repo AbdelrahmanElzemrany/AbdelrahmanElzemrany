@@ -1,4 +1,4 @@
-# Hi there, I'm Abdelrahman ELzermrany 👋
+# Hi there, I'm Abdelrahman ELzemrany 👋
 
 I am a **Mechatronics Engineer** specializing in **Automatic Control Systems** and **Model-Based Design (MBD)**. I focus heavily on **Model-in-the-Loop (MIL)** simulation testing, parameter estimation, and digital twin validation to build robust, highly optimized control loops.
 
