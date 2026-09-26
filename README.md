@@ -7,6 +7,6 @@ I am a **Mechatronics Engineer** specializing in **Automatic Control Systems** a
 - **Programming Languages:** C/C++ ,Python(No real application yet)
 - **Testing Methodology:** Model-in-the-Loop (MIL), Multi-Body Dynamics, System Identification
 - **Experience In:** Robotics, Smart Materials (SMA) ,  control Theory , Optimization methods ,  Algorithms verification
-- **Developing skill In:** MATLAB Code Generation, Signal Processing, Electronics circuits, Electric motors  
+- **Developing Skills In:** MATLAB Code Generation, Signal Processing, Electronics circuits, Electric motors  
 
 
